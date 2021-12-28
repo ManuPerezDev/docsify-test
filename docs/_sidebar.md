@@ -1,2 +1,2 @@
 * [Home](/)
-* [Guide](test.md "test")
+* [Test](test.md "test")
